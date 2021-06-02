@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(84, 97, 211);
+    font-family: arial;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+
+section{
+    color:black;
+    margin: auto;
+    height: 350px;
+    width: 700px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 7px 6px 5px rgba(0, 0, 0, 0.411);
+}
+
+#txtsec{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px 150px 150px 150px;
+}
