@@ -12,7 +12,7 @@ function carregar() {
 
     } else if (turno >= 12 && turno <= 18) {
         img.src = 'images/tarde.jpg'
-        document.body.style.background = 'orange'
+        document.body.style.background = '#d96b38'
 
     } else if (turno > 18 && turno < 24) {
         img.src = 'images/night.jpg'
